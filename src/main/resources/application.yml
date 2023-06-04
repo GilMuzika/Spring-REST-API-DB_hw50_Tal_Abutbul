@@ -1,0 +1,4 @@
+max_student : 20
+min_of_student_class : 1
+dummy-json :
+  url: https://dummyjson.com/
